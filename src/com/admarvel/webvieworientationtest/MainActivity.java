@@ -27,7 +27,7 @@ public class MainActivity extends Activity
 	    webView.getSettings().setJavaScriptCanOpenWindowsAutomatically(
 		    true );
 
-	    webView.loadUrl( "http://172.19.19.126/test123.html" );
+	    webView.loadUrl( "http://admarvel.s3.amazonaws.com/sdk/tst_deep/WebViewOrientationEventListenerTest.html" );
 	    
 	    webView.setWebChromeClient( new WebChromeClient() );
 	    webView.setWebViewClient( new WebViewClient() ) ;
