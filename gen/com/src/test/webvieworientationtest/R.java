@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.admarvel.webvieworientationtest;
+package com.src.test.webvieworientationtest;
 
 public final class R {
     public static final class attr {
@@ -25,8 +25,7 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080002;
-        public static final int ll=0x7f080001;
+        public static final int action_settings=0x7f080001;
         public static final int wv=0x7f080000;
     }
     public static final class layout {

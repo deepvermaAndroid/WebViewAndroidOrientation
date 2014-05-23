@@ -1,4 +1,6 @@
-package com.admarvel.webvieworientationtest;
+package com.src.test.webvieworientationtest;
+
+import com.src.test.webvieworientationtest.R;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
